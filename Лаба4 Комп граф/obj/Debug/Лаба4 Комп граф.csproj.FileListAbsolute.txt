@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.exe.config
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.exe
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.pdb
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4_Комп_граф.Form1.resources
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4_Комп_граф.Properties.Resources.resources
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.exe
+C:\Users\User\source\repos\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.pdb
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.exe.config
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.exe
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\bin\Debug\Лаба4 Комп граф.pdb
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csprojAssemblyReference.cache
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4_Комп_граф.Form1.resources
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4_Комп_граф.Properties.Resources.resources
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csproj.GenerateResource.cache
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.exe
+C:\Users\ASRock\Desktop\Лаба4 Комп граф\Лаба4 Комп граф\obj\Debug\Лаба4 Комп граф.pdb
